@@ -1,7 +1,7 @@
 # AI-Notes
 
-* Table of contents
-[[_TOC_]]
+## Table of Contents
+[TOC]
 
 ## LLMS
 **Summary:** LLMs, or Large Language Models, are advanced AI models trained on vast amounts of text data to understand and generate human-like language. They are used in various applications such as natural language processing, machine translation, and conversational agents.
