@@ -10,7 +10,7 @@
    - [LangGraph](#langgraph)
 6. [Fine-Tuning](#fine-tuning)
 7. [Deploying Agents](#deploying-agents)
-8. [Scaling Agents](#scaling-agents
+8. [Scaling Agents](#scaling-agents)
 
 ## Commands
 ```bash
@@ -24,16 +24,13 @@ pip3 install -r requirements.txt
 ## Diagrams
 
 ## AI Projects Ideation List
-1. Employee Handbook/Policy Question Answering
+1. [Employee](https://github.com/basmaashouur/AI-RAG-Doc) Handbook/Policy Question Answering
   - Integrate a bot into Slack
   - TDM Agent
-2. Summarize interviews into feedback
+2. [Summarize](https://github.com/basmaashouur/AI-Video-Analysis) interviews into feedback
   - Upload interview recordings to YouTube and fetch links
 3. 
 4.     
-5. 
-    
-7.   
 
 
 ## LLMs
@@ -43,7 +40,7 @@ pip3 install -r requirements.txt
 
 
 ### RAG 
-- Advanced Techniques, retrieval-augmented generation and how it can enhance LLMs' performance.
+- Advanced Techniques, retrieval-augmented generation, and how it can enhance LLMs' performance.
 - Summary: RAG combines information retrieval with language generation to enhance the quality and accuracy of generated text by retrieving relevant information from external sources.
 - Relation: It is a technique that can be used to improve the performance of LLMs by integrating them with information retrieval systems.
 
